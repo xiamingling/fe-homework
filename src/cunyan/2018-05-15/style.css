@@ -1,0 +1,32 @@
+.part .nav ul,li {
+    border:1px solid rgb(180, 22, 22);
+    padding: 0;
+    margin: 0;
+}
+ul .gradient-ul {
+    list-style-type:none;
+    background-color: aqua
+}
+li .gradient-li {
+    list-style-type:none;
+    background-color: rebeccapurple
+
+}
+table,tr,td,th,ul,li {
+    border:1px solid rgb(180, 22, 22);
+}
+.items {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    padding-top:6px;
+    padding-bottom:6px;
+}
+.item {
+    display:inline;
+}
+a {
+    text-align:center;
+    text-decoration:none;
+    text-transform:uppercase;
+}
